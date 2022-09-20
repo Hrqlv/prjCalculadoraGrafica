@@ -1,0 +1,9 @@
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\bin\Debug\prjCalculadoraGrafica.exe.config
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\obj\Debug\prjCalculadoraGrafica.csprojResolveAssemblyReference.cache
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\obj\Debug\prjCalculadoraGrafica.Form1.resources
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\obj\Debug\prjCalculadoraGrafica.Properties.Resources.resources
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\obj\Debug\prjCalculadoraGrafica.csproj.GenerateResource.Cache
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\bin\Debug\prjCalculadoraGrafica.exe
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\bin\Debug\prjCalculadoraGrafica.pdb
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\obj\Debug\prjCalculadoraGrafica.exe
+d:\prjCalculadoraGrafica\prjCalculadoraGrafica\obj\Debug\prjCalculadoraGrafica.pdb
